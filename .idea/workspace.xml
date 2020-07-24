@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="warn" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a73bfb14-5a83-471d-9430-fd3d485d998b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1evs9XS7u8ZIzwufybklqEtOJhs" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/page/item" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.Dart" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\asproject\gitprojects\my_wanandroid_app\lib\page\item" />
+      <recent name="D:\asproject\gitprojects\my_wanandroid_app\lib\data\model" />
+      <recent name="D:\asproject\gitprojects\my_wanandroid_app\lib\widget\refresh" />
+      <recent name="D:\asproject\gitprojects\my_wanandroid_app\lib\constant" />
+      <recent name="D:\asproject\gitprojects\my_wanandroid_app\lib\page\webview" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73bfb14-5a83-471d-9430-fd3d485d998b" name="Default Changelist" comment="" />
+      <created>1595213249791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595213249791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595470190474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595470190474" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595234889407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595234889407" />
+    <state width="1879" height="388" key="GridCell.Tab.0.bottom" timestamp="1595504390305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.112.1920.1040@-1920.112.1920.1040" timestamp="1595324276554" />
+    <state width="1879" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595504390305" />
+    <state width="1879" height="388" key="GridCell.Tab.0.center" timestamp="1595504390305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="334" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.112.1920.1040@-1920.112.1920.1040" timestamp="1595324276554" />
+    <state width="1879" height="388" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595504390305" />
+    <state width="1879" height="388" key="GridCell.Tab.0.left" timestamp="1595504390305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="334" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.112.1920.1040@-1920.112.1920.1040" timestamp="1595324276552" />
+    <state width="1879" height="388" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595504390305" />
+    <state width="1879" height="388" key="GridCell.Tab.0.right" timestamp="1595504390305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="334" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.112.1920.1040@-1920.112.1920.1040" timestamp="1595324276554" />
+    <state width="1879" height="388" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595504390305" />
+    <state x="536" y="220" key="NewModule_or_Project.wizard" timestamp="1595234858097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595234858097" />
+    <state x="397" y="0" key="ScreenshotViewer.Dimensions" timestamp="1595489078331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="397" y="0" key="ScreenshotViewer.Dimensions/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595489078331" />
+    <state x="491" y="163" key="SettingsEditor" timestamp="1595408564696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="163" key="SettingsEditor/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595408564696" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1595469801845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595469801845" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595483700594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.112.1920.1040@0.0.1920.1040" timestamp="1595483700594" />
+  </component>
+</project>
